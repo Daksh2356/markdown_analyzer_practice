@@ -9,15 +9,14 @@ const _markdownText = """
  scrollable widget.
 
  ## Section 1
- Maecenas eget **arcu egestas**, mollis ex vitae, posuere magna. Nunc eget
- aliquam tortor. Vestibulum porta sodales efficitur. Mauris interdum turpis
- eget est condimentum, vitae porttitor diam ornare.
+ This is section 1 being displayed by the Markdown widget.
 
  ### Subsection A
- Sed et massa finibus, blandit massa vel, vulputate velit. Vestibulum vitae
- venenatis libero. **__Curabitur sem lectus, feugiat eu justo in, eleifend
- accumsan ante.__** Sed a fermentum elit. Curabitur sodales metus id mi
- ornare, in ullamcorper magna congue.
+ This repo is created to understand and practice on one of the project ideas of GSOC'23 - TESTING DOCUMENTAION COMMENTS.
+ It involves using flutter packages such as : analyzer, dartdoc and markdown. It works on the concepts of linting, analyzing code,
+ documentation of code samples and markdown language.
+
+ </b>
  
 int _counter = 0;
 
